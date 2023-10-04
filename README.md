@@ -9,3 +9,4 @@ Head over to [CONTRIBUTING.md](https://github.com/himanshubalani/first_contribut
 | Image | Name | GitHub Account Link |
 |---|---|---|
 | <img src="https://github.com/himanshubalani.png" width=50px> | Himanshu Balani |  https://github.com/himanshubalani
+| <img src="https://github.com/sugatwaghmare.png" width=50px> | Sugat Waghmare | https://github.com/sugatwaghmare
