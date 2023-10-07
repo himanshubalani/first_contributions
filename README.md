@@ -20,3 +20,8 @@ Head over to [CONTRIBUTING.md](https://github.com/himanshubalani/first_contribut
 |<img src="https://avatars.githubusercontent.com/u/93252366?v=4" width=50px> | Ayush Jagdhane | https://github.com/animex007
 | <img src="https://github.com/kaustubhsaraf.png" width=50px> | Kaustubh Saraf |  https://github.com/kaustubhsaraf
 | <img src="https://github.com/SarthiBorkar.png" width=50px> | Sarthi Borkar |  https://github.com/SarthiBorkar
+
+## This was possible because of them⭐
+<a href="https://github.com/himanshubalani/first_contributions/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=himanshubalani/first_contributions" />
+</a>
