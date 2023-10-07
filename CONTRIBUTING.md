@@ -15,7 +15,9 @@
 ![img12](https://github.com/himanshubalani/first_contributions/assets/85930567/300bd5b8-5a4e-426a-9ee7-20c1e75e0139)
 
 #### 5. Edit the file
-Add a line similar to the one given.
+- Create a directory of your name.
+- Add a file name 'Your_name.md'.
+- Add a line similar to the one given.
 
 The template is
 
